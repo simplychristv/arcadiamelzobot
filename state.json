@@ -175,10 +175,6 @@
    "avengers-endgame-extra": {
     "poster": "https://www.arcadiacinema.com/cdn/movies/b182d1beda5de63f258d7957c611853ed8aa343553d2bce273d66507f6781cabd31e4aa0463b22a71e02fb668dee431f3cfb0bc40f77432fa4de24299113f995.jpg",
     "shows": {
-     "223190": {
-      "fmt": "2D",
-      "when": "10/10 16:00"
-     },
      "223195": {
       "fmt": "2D",
       "when": "11/10 17:45"
@@ -205,10 +201,6 @@
    "digger-2026": {
     "poster": "https://www.arcadiacinema.com/cdn/movies/eec4df2672c82ce0bbacb6c95f549be5a8c53aebc5a4c8c160fe732c6c69776f972f2a1af4593b9f30b4cd5bee0c9fd3e6bae69eaa2ff31aeb9c98a537871b1c.jpg",
     "shows": {
-     "223123": {
-      "fmt": "2D",
-      "when": "10/10 22:00"
-     },
      "223127": {
       "fmt": "2D",
       "when": "11/10 20:50"
@@ -247,14 +239,6 @@
       "fmt": "2D",
       "when": "12/10 20:40"
      },
-     "223156": {
-      "fmt": "2D",
-      "when": "10/10 15:00"
-     },
-     "223158": {
-      "fmt": "2D",
-      "when": "10/10 21:00"
-     },
      "223159": {
       "fmt": "2D",
       "when": "11/10 15:00"
@@ -274,10 +258,6 @@
    "lalbero-di-molto-lontano": {
     "poster": "https://img.cine-vu.it/locandineSchede/%5B446%5D48721.jpg",
     "shows": {
-     "223157": {
-      "fmt": "2D",
-      "when": "10/10 17:25"
-     },
      "223160": {
       "fmt": "2D",
       "when": "11/10 17:25"
@@ -294,10 +274,6 @@
       "fmt": "2D",
       "when": "14/10 17:25"
      },
-     "223173": {
-      "fmt": "2D",
-      "when": "10/10 15:20"
-     },
      "223177": {
       "fmt": "2D",
       "when": "11/10 15:20"
@@ -309,22 +285,6 @@
    "lestranea": {
     "poster": "https://img.cine-vu.it/locandineSchede/%5B446%5D48593.jpg",
     "shows": {
-     "223139": {
-      "fmt": "2D",
-      "when": "10/10 17:20"
-     },
-     "223140": {
-      "fmt": "2D",
-      "when": "10/10 20:10"
-     },
-     "223141": {
-      "fmt": "2D",
-      "when": "10/10 22:30"
-     },
-     "223142": {
-      "fmt": "2D",
-      "when": "10/10 14:50"
-     },
      "223143": {
       "fmt": "2D",
       "when": "11/10 14:50"
@@ -368,18 +328,6 @@
    "mammina": {
     "poster": "https://img.cine-vu.it/locandineSchede/%5B446%5D48720.jpg",
     "shows": {
-     "223174": {
-      "fmt": "2D",
-      "when": "10/10 17:50"
-     },
-     "223175": {
-      "fmt": "2D",
-      "when": "10/10 20:30"
-     },
-     "223176": {
-      "fmt": "2D",
-      "when": "10/10 22:40"
-     },
      "223178": {
       "fmt": "2D",
       "when": "11/10 17:50"
@@ -430,18 +378,6 @@
    "naza": {
     "poster": "https://www.arcadiacinema.com/cdn/movies/d3a32a04c4ab9961e173125abbc60a2196c1c327de16f4cf51880cde5d77f6aa38101aaf283f2e2476d065194a2b505f7a2020ee5e67de8d0aa3cf465f614720.jpg",
     "shows": {
-     "223121": {
-      "fmt": "2D",
-      "when": "10/10 17:30"
-     },
-     "223122": {
-      "fmt": "2D",
-      "when": "10/10 20:00"
-     },
-     "223124": {
-      "fmt": "2D",
-      "when": "10/10 15:30"
-     },
      "223125": {
       "fmt": "2D",
       "when": "11/10 15:30"
@@ -473,10 +409,6 @@
    "resident-evil-2026": {
     "poster": "https://img.cine-vu.it/locandineSchede/%5B446%5D48060.jpg",
     "shows": {
-     "223106": {
-      "fmt": "2D",
-      "when": "10/10 22:50"
-     },
      "223163": {
       "fmt": "2D",
       "when": "12/10 21:00"
@@ -488,18 +420,6 @@
    "the-social-il-prezzo-della-verita": {
     "poster": "https://img.cine-vu.it/locandineSchede/%5B446%5D48312.jpg",
     "shows": {
-     "223103": {
-      "fmt": "2D",
-      "when": "10/10 15:10"
-     },
-     "223104": {
-      "fmt": "2D",
-      "when": "10/10 17:40"
-     },
-     "223105": {
-      "fmt": "2D",
-      "when": "10/10 20:20"
-     },
      "223107": {
       "fmt": "2D",
       "when": "11/10 15:10"
@@ -539,14 +459,6 @@
    "verity": {
     "poster": "https://www.arcadiacinema.com/cdn/movies/4e63a95d87a77a438cecd49369d3b751befd8de5bd10687f6cad29440981889dd4e57e97d0718bc3bdf3a612a0112b131b848bc2bc6ef5a819e87bda3c75e096.jpg",
     "shows": {
-     "223191": {
-      "fmt": "2D",
-      "when": "10/10 19:50"
-     },
-     "223192": {
-      "fmt": "2D",
-      "when": "10/10 22:20"
-     },
      "223193": {
       "fmt": "2D",
       "when": "11/10 15:15"
@@ -806,10 +718,6 @@
      "131287": {
       "fmt": "2D",
       "when": "11/10 17:20"
-     },
-     "131296": {
-      "fmt": "2D",
-      "when": "10/10 14:40"
      }
     },
     "title": "AVENGERS: ENDGAME EXTRA",
@@ -818,10 +726,6 @@
    "digger-2026": {
     "poster": "https://www.arcadiacinema.com/cdn/movies/eec4df2672c82ce0bbacb6c95f549be5a8c53aebc5a4c8c160fe732c6c69776f972f2a1af4593b9f30b4cd5bee0c9fd3e6bae69eaa2ff31aeb9c98a537871b1c.jpg",
     "shows": {
-     "131286": {
-      "fmt": "2D",
-      "when": "10/10 18:10"
-     },
      "131288": {
       "fmt": "2D",
       "when": "11/10 20:50"
@@ -878,10 +782,6 @@
      "131290": {
       "fmt": "2D",
       "when": "12/10 20:40"
-     },
-     "131316": {
-      "fmt": "2D",
-      "when": "10/10 15:30"
      }
     },
     "title": "HEART OF THE BEAST - NEL PROFONDO SELVAGGIO",
@@ -920,10 +820,6 @@
    "lalbero-di-molto-lontano": {
     "poster": "https://img.cine-vu.it/locandineSchede/%5B446%5D48721.jpg",
     "shows": {
-     "131266": {
-      "fmt": "2D",
-      "when": "10/10 17:30"
-     },
      "131268": {
       "fmt": "2D",
       "when": "11/10 15:20"
@@ -940,10 +836,6 @@
       "fmt": "2D",
       "when": "14/10 17:10"
      },
-     "131277": {
-      "fmt": "2D",
-      "when": "10/10 15:10"
-     },
      "131279": {
       "fmt": "2D",
       "when": "11/10 10:40"
@@ -959,10 +851,6 @@
       "fmt": "2D",
       "when": "11/10 15:00"
      },
-     "131304": {
-      "fmt": "2D",
-      "when": "10/10 20:15"
-     },
      "131308": {
       "fmt": "2D",
       "when": "12/10 20:30"
@@ -975,17 +863,9 @@
       "fmt": "2D",
       "when": "14/10 20:30"
      },
-     "131323": {
-      "fmt": "2D",
-      "when": "10/10 17:10"
-     },
      "131325": {
       "fmt": "2D",
       "when": "11/10 20:30"
-     },
-     "131328": {
-      "fmt": "2D",
-      "when": "10/10 22:35"
      },
      "131330": {
       "fmt": "2D",
@@ -998,10 +878,6 @@
    "mammina": {
     "poster": "https://img.cine-vu.it/locandineSchede/%5B446%5D48720.jpg",
     "shows": {
-     "131267": {
-      "fmt": "2D",
-      "when": "10/10 20:30"
-     },
      "131269": {
       "fmt": "2D",
       "when": "11/10 21:10"
@@ -1017,10 +893,6 @@
      "131275": {
       "fmt": "2D",
       "when": "14/10 21:10"
-     },
-     "131278": {
-      "fmt": "2D",
-      "when": "10/10 22:40"
      },
      "131280": {
       "fmt": "2D",
@@ -1056,17 +928,9 @@
    "naza": {
     "poster": "https://www.arcadiacinema.com/cdn/movies/d3a32a04c4ab9961e173125abbc60a2196c1c327de16f4cf51880cde5d77f6aa38101aaf283f2e2476d065194a2b505f7a2020ee5e67de8d0aa3cf465f614720.jpg",
     "shows": {
-     "131322": {
-      "fmt": "2D",
-      "when": "10/10 15:20"
-     },
      "131324": {
       "fmt": "2D",
       "when": "11/10 10:50"
-     },
-     "131327": {
-      "fmt": "2D",
-      "when": "10/10 20:00"
      },
      "131329": {
       "fmt": "2D",
@@ -1091,14 +955,6 @@
    "odissea-2026": {
     "poster": "https://www.arcadiacinema.com/cdn/movies/7efd1bf999801fe57d7f176c695e11be0d008f8fa45df4e1a7e126c74b9743029fec9749e4ae4fc306860754205442cb7c5b6fbcd3d6eb29d50efadd01192d00.jpg",
     "shows": {
-     "131007": {
-      "fmt": "70MM ENERGIA",
-      "when": "10/10 17:00"
-     },
-     "131008": {
-      "fmt": "70MM ENERGIA",
-      "when": "10/10 21:00"
-     },
      "131009": {
       "fmt": "70MM ENERGIA",
       "when": "11/10 13:00"
@@ -1118,10 +974,6 @@
      "131013": {
       "fmt": "70MM ENERGIA",
       "when": "14/10 21:00"
-     },
-     "131149": {
-      "fmt": "FILM IN INGLESE 70MM ENERGIA",
-      "when": "10/10 13:00"
      },
      "131170": {
       "fmt": "70MM ENERGIA",
@@ -1254,10 +1106,6 @@
    "the-social-il-prezzo-della-verita": {
     "poster": "https://img.cine-vu.it/locandineSchede/%5B446%5D48312.jpg",
     "shows": {
-     "131305": {
-      "fmt": "2D",
-      "when": "10/10 22:30"
-     },
      "131307": {
       "fmt": "2D",
       "when": "11/10 20:50"
@@ -1274,10 +1122,6 @@
       "fmt": "2D",
       "when": "14/10 17:25"
      },
-     "131315": {
-      "fmt": "2D",
-      "when": "10/10 17:40"
-     },
      "131317": {
       "fmt": "2D",
       "when": "11/10 15:10"
@@ -1289,10 +1133,6 @@
    "verity": {
     "poster": "https://www.arcadiacinema.com/cdn/movies/4e63a95d87a77a438cecd49369d3b751befd8de5bd10687f6cad29440981889dd4e57e97d0718bc3bdf3a612a0112b131b848bc2bc6ef5a819e87bda3c75e096.jpg",
     "shows": {
-     "131285": {
-      "fmt": "2D",
-      "when": "10/10 21:20"
-     },
      "131291": {
       "fmt": "2D",
       "when": "13/10 17:20"
